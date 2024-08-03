@@ -1,5 +1,5 @@
 function rollDice() {
-    const roll = document.getElementById("roll").value; // Convert input value to number
+    const roll = document.getElementById("roll").value;
     const diceResult = document.getElementById("diceResult");
     const diceImages = document.getElementById("diceImages");
 
